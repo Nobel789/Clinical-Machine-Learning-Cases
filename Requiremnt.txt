@@ -1,0 +1,12 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Statistics and Diagnostics
+statsmodels
+
+# Visualization
+matplotlib
